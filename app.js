@@ -18,6 +18,7 @@ if(chute > numeroSecreto) {
           alert(`o número secreto é maior que o ${chute}`);
 
 }
+
 //tentativa s= tentativas + 1
 tentativas++;
 }
